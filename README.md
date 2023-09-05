@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oleksandr
+- 🖥️ I like to develop applications in java
+- 🎓 I’m currently studying in Polish-Japanese Academy of Information Technology
+- 🔥 My hobbies include circus-related activities such as juggling and poi dancing.
+- 🧠 I am constantly learning new things
